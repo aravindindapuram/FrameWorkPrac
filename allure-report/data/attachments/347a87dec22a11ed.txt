@@ -1,0 +1,4 @@
+error is Error: locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator('.dropdown-menu.dropdown-menu-right').nth(5)
+

@@ -1,0 +1,6 @@
+error is Error: locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator('.dropdown-menu.dropdown-menu-right').nth(5)
+    - waiting for" https://localhost/opencart/upload/index.php?route=account/logout" navigation to finish...
+    - navigated to "https://localhost/opencart/upload/index.php?route=account/logout"
+
