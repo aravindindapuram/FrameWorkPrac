@@ -1,1 +1,1 @@
-[{"data":{"failed":0,"broken":0,"skipped":0,"passed":10,"unknown":0,"total":10}}]
+[{"buildOrder":3,"reportUrl":"http://localhost:8080/job/playwright_opencart_project_local%20project/3/allure","reportName":"AllureReport","data":{"failed":1,"broken":0,"skipped":0,"passed":9,"unknown":0,"total":10}},{"buildOrder":2,"reportUrl":"http://localhost:8080/job/playwright_opencart_project_local%20project/2/allure","reportName":"AllureReport","data":{"failed":1,"broken":0,"skipped":0,"passed":9,"unknown":0,"total":10}}]
