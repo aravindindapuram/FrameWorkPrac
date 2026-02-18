@@ -1,0 +1,7 @@
+Wilber_Considine86@yahoo.com
+Registration Successfull
+Logout Successfull
+Login Successfull
+productcount 3
+productcount 3
+Confimration Message Not Found: Error: locator.isVisible: Target page, context or browser has been closed

@@ -1,0 +1,9 @@
+Michael1@hotmail.com
+Registration Successfull
+Logout Successfull
+Login Successfull
+productcount 3
+productcount 3
+Retrying Add to Cart... attempt 1
+addProductToCart Successfull
+verifyShoppingCart Successfull

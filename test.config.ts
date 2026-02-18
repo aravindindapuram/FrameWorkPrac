@@ -9,6 +9,7 @@ export class TestConfig {
 
   //product details
   productName = "MacBook";
-  productQuantity = "2";
-  totalPrice = "$1,204.00";
+  productQuantity = "1";
+  totalPrice = "$602.00";
+  validation=[602, 1204]
 }

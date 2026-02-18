@@ -1,0 +1,8 @@
+Kara.Wiegand@yahoo.com
+Registration Successfull
+Logout Successfull
+Login Successfull
+productcount 3
+productcount 3
+addProductToCart Successfull
+verifyShoppingCart Successfull

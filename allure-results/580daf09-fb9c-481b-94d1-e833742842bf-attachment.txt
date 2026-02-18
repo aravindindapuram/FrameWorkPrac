@@ -1,0 +1,5 @@
+Kevin.Rempel@yahoo.com
+Exception occurred in function getConfirmationMessage - Error: Error: locator.textContent: Target page, context or browser has been closed
+Call log:
+  - waiting for locator('#content h1')
+
